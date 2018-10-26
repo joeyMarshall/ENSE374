@@ -10,7 +10,7 @@ public class LinkedList
 	{
 		// TODO Auto-generated method stub
 
-
+//iiii
 	}
 
 }
